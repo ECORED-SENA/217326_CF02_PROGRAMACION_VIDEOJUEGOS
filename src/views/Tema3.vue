@@ -18,7 +18,7 @@
               .bg-2.br-10.p-4.text-center.h-100
                 img.m-auto.mb-4(src='@/assets/curso/temas/t3/tarj-ico1.svg', alt='', style="width: 110px;")
                 h5 a. Hacer una lluvia de ideas
-                p Ejemplo lluvia de ideas: niño aventurero, explora, animales, extraterrestre, niño desjuiciado, desaparecido, escape, lucha, monstruos, mamá, busca comida, perdida en bosque, medallones para regresar y avanzar, alimentar el niño, duende, explora ambientes uno frío y uno cálido, busca de medallones, monedas de oro, pasa niveles recolectando, árboles, bosque, noche, día, puente, muerte, mundo, dios, flores, frutas, mago.
+                p Ejemplo, lluvia de ideas: niño aventurero, explora, animales, extraterrestre, niño desjuiciado, desaparecido, escape, lucha, monstruos, mamá, busca comida, perdida en bosque, medallones para regresar y avanzar, alimentar el niño, duende, explora ambientes uno frío y uno cálido, busca de medallones, monedas de oro, pasa niveles recolectando, árboles, bosque, noche, día, puente, muerte, mundo, dios, flores, frutas, mago.
             .col-lg-4.col-md-6.mb-4
               .bg-3.br-10.p-4.text-center.h-100
                 img.m-auto.mb-4(src='@/assets/curso/temas/t3/tarj-ico2.svg', alt='', style="width: 110px;")
@@ -36,11 +36,11 @@
             .row.justify-content-center
               .col-lg-4.col-md-6.mb-4
                 .bg-white.tarjeta.h-100.p-4
-                  h5.text-center.mb-4 Videojuego Limbo
+                  h5.text-center.mb-4 Limbo
                   img(src='@/assets/curso/temas/t3/tarj-img1.png', alt='')
               .col-lg-4.col-md-6.mb-4
                 .bg-white.tarjeta.h-100.p-4
-                  h5.text-center.mb-4 Videojuego Do animals dream?
+                  h5.text-center.mb-4 Do animals dream?
                   img(src='@/assets/curso/temas/t3/tarj-img2.png', alt='')
               .col-lg-4.col-md-6.mb-4
                 .bg-white.tarjeta.h-100.p-4
@@ -64,12 +64,12 @@
           p Basados en su personalidad, se va construyendo su aspecto. En este punto, se define cómo lucirá el personaje, su género, sus características físicas, si es alto o bajo, ancho o delgado, si es joven o viejo, si es morfológicamente humanoide o animal.
       .row(titulo="Estilo visual")
         .col-md-6
-          p En este apartado es donde se decide la dirección artística del personaje y demás elementos, si se busca que se vea realista, para darle un enfoque más dramático, cercano a la realidad, con texturas y modelados detallados, o si se busca transmitir una sensación de fantasía y cuento de hadas, en cuyo caso, se optaría por un estilo tipo cell shading, que transmita esa ambientación. Estilos minimalistas, tipo cartoon o anime entre otros.
+          p En este apartado es donde se decide la dirección artística del personaje y demás elementos, si se busca que se vea realista, para darle un enfoque más dramático, cercano a la realidad, con texturas y modelados detallados, o si se busca transmitir una sensación de fantasía y cuento de hadas, en cuyo caso, se optaría por un estilo tipo #[em cell shading], que transmita esa ambientación. Estilos minimalistas, tipo cartoon o anime entre otros.
         .col-md-5
           img(src='@/assets/curso/temas/t3/acord-img1.png', alt='')
-      .row(titulo="Thumbnails")
+      .row(titulo="<em>Thumbnails</em>")
         .col-md-6
-          p En este paso, es donde comienza la exploración del proceso de diseño, se empiezan a hacer bocetos pequeños para explorar ideas que puedan funcionar o descartarse. Un punto a tener en cuenta es la creación de la silueta del personaje, para ver cómo se reconoce en la visualización; para ello, por ejemplo para un juego 2D lateral de plataformas, se crean thumbnails de la silueta en varias posiciones, teniendo en cuenta la vista lateral de la cámara. En igual caso, si el juego se viera en vista cenital, las siluetas deberían hacerse teniendo en cuenta esta vista.
+          p En este paso, es donde comienza la exploración del proceso de diseño, se empiezan a hacer bocetos pequeños para explorar ideas que puedan funcionar o descartarse. Un punto a tener en cuenta es la creación de la silueta del personaje, para ver cómo se reconoce en la visualización; para ello, por ejemplo, para un juego 2D lateral de plataformas, se crean thumbnails de la silueta en varias posiciones, teniendo en cuenta la vista lateral de la cámara. En igual caso, si el juego se viera en vista cenital, las siluetas deberían hacerse teniendo en cuenta esta vista.
         .col-md-5
           img(src='@/assets/curso/temas/t3/acord-img2.png', alt='')
       .row(titulo="Paleta de colores")
@@ -80,7 +80,7 @@
             .titulo-sexto.color-acento-contenido.mb-3
               p.mb-0 #[b Figura 6.] Paleta de colores ejemplo de Super Mario Bros.
             figure
-              img(src='@/assets/curso/temas/t3/fig6.png', alt='') 
+              img(src='@/assets/curso/temas/t3/fig6.png', alt='La figura muestra una tabla con nombres de colores y sus respectivos códigos en formatos hexadecimal y RGB, organizados en categorías de rojos, rosas, naranjas y verdes.') 
       .row(titulo="Identidad")
         .col-md-11 
           p.mb-4 En este punto debemos tener elementos que ayuden a definir ciertas características del personaje, para que a primera vista sean fácilmente identificables, como brazos largos o piernas desproporcionadas, para resaltar ciertas cualidades físicas; todo ello de la mano con los modeladores de personajes, pues, en trabajo conjunto, finalmente se desarrolla todo el personaje, donde queda listo su lenguaje corporal, sus elementos característicos y objetos que lo acompañarán.
@@ -89,7 +89,7 @@
             .titulo-sexto.color-acento-contenido.mb-3
               p.mb-0 #[b Figura 7.] Doce arquetipos de personalidad de Carl Gustav Jung
             figure
-              img(src='@/assets/curso/temas/t3/fig7.svg', alt='') 
+              img(src='@/assets/curso/temas/t3/fig7.svg', alt='La figura presenta un diagrama con los doce arquetipos de personalidad de Carl Gustav Jung. Cada arquetipo está representado por un icono y un nombre, como Gobernante, Bufón, Amante, entre otros, y está vinculado a ciertas motivaciones y características personales básicas.') 
 
     .row.justify-content-center.align-items-center
       .col-lg-5.col-10.mb-4(data-aos="fade-right")
@@ -215,7 +215,7 @@
                       .titulo-sexto.color-acento-contenido.mb-3
                         p.mb-0 #[b Figura 8.] Estructura narrativa
                       figure
-                        img(src='@/assets/curso/temas/t3/fig8.png', alt='')
+                        img(src='@/assets/curso/temas/t3/fig8.png', alt='La figura muestra un esquema que ilustra los componentes de una historia a través de dibujos y anotaciones, siguiendo una línea de tiempo.')
 
     .row.align-items-center.justify-content-center
       .col-lg-8.mb-4(data-aos="fade-right")
@@ -368,7 +368,7 @@
         .titulo-sexto.color-acento-contenido.mb-3
           p.mb-0 #[b Figura 9.] Ejemplo de luces y sombras afectando a un grupo de objetos
         figure
-          img(src='@/assets/curso/temas/t3/fig9.png', alt='')  
+          img(src='@/assets/curso/temas/t3/fig9.png', alt='La figura muestra un diagrama de varios objetos geométricos y cómo la luz directa incide sobre ellos, generando brillo, sombras propias, luz reflejada y sombras proyectadas. Las flechas de diferentes colores señalan cada uno de estos elementos visuales.')  
 
     .row.fondo5-t3.align-items-center.py-5
       .col-lg-12.col-12.px-lg-5.px-4
@@ -388,7 +388,7 @@
               .titulo-sexto.color-acento-contenido.mb-3
                 p.mb-0 #[b Figura 10.] Triangulo de iluminación
               figure
-                img(src='@/assets/curso/temas/t3/fig10.png', alt='')  
+                img(src='@/assets/curso/temas/t3/fig10.png', alt='La figura ilustra un arreglo de iluminación fotográfica con tres fuentes de luz, dispuestas alrededor de un objeto central para lograr una iluminación equilibrada.')  
 
 
     Separador
@@ -403,7 +403,7 @@
         p Es importante escribir la hora de la escena, si es de día, en la tarde o en la noche. Asimismo, si es una escena en el espacio exterior, o en un espacio interno. Esto permite saber el tipo de iluminación que ambientará dicha escena. 
         .bg-5.p-4.mb-4
           p.mb-0 El guion técnico permite describir cada una de las escenas y qué elementos tendrá. Todo depende del tipo de videojuego que se desea realizar. Por ejemplo, la posición de la cámara, si es un juego de posición lateral, se puede usar una cámara frontal, pero si se desea ver todo el espacio del juego, se puede usar una cámara cenital. 
-        p Por último, se debe numerar cada una de las escenas, como 1, 2, 3, etc., con la finalidad de mantener una secuencia lineal, de acuerdo con el guion narrativo, y permitirá realizar un storyboard detallado, en orden. También es importante mencionar si es una escena en un espacio exterior o interior y la hora en la que está sucediendo la escena.
+        p Por último, se debe numerar cada una de las escenas, como 1, 2, 3, etc., con la finalidad de mantener una secuencia lineal, de acuerdo con el guion narrativo, y permitirá realizar un #[em storyboard] detallado, en orden. También es importante mencionar si es una escena en un espacio exterior o interior y la hora en la que está sucediendo la escena.
         .tarjeta.color-primario.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
@@ -430,8 +430,8 @@
       .col-lg-5.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t3/img7.png', alt='')
       .col-lg-7.mb-4(data-aos="fade-left")
-        p El “storyboard”, fundamentalmente es la base donde se ilustran los elementos y narrativa sobre una plantilla en que se detalla cada parte o escena del videojuego, en él se relata de manera breve pero concisa el desarrollo de la trama o historia del videojuego para poder explicar el funcionamiento, las mecánicas y la distribución de elementos, dicho de otra manera, son ilustraciones que representan de manera secuencial una historia, para que sea entendida por los diseñadores del videojuego. 
-        p En el storyboard, se explica cómo debe ser vista la pantalla según la cámara y también se describen acciones de la toma, como sonidos o efectos que deben realizarse. Gracias a esto, el equipo de producción del videojuego tiene claro lo que debe realizar, como elementos “background”, perspectiva de la cámara, iluminación, así como también describir las mecánicas que lo conforman, elementos que aparecen en determinados momentos como interfaces e interacciones.  
+        p El “#[em storyboard]”, fundamentalmente es la base donde se ilustran los elementos y narrativa sobre una plantilla en que se detalla cada parte o escena del videojuego, en él se relata de manera breve pero concisa el desarrollo de la trama o historia del videojuego para poder explicar el funcionamiento, las mecánicas y la distribución de elementos, dicho de otra manera, son ilustraciones que representan de manera secuencial una historia, para que sea entendida por los diseñadores del videojuego. 
+        p En el #[em storyboard], se explica cómo debe ser vista la pantalla según la cámara y también se describen acciones de la toma, como sonidos o efectos que deben realizarse. Gracias a esto, el equipo de producción del videojuego tiene claro lo que debe realizar, como elementos “#[em background]”, perspectiva de la cámara, iluminación, así como también describir las mecánicas que lo conforman, elementos que aparecen en determinados momentos como interfaces e interacciones.  
 
     .row.align-items-center.justify-content-center
       .col-lg-7.mb-4(data-aos="fade-right")
@@ -454,9 +454,9 @@
       .col-lg-5.mb-4(data-aos="fade-left")
         .bg-5.p-3
           .titulo-sexto.color-acento-contenido.mb-3
-            p.mb-0 #[b Figura 11.] #[em Storyboard Flynn] en el bosque Gaokerena
+            p.mb-0 #[b Figura 11.] #[em Storyboard] Flynn en el bosque Gaokerena
           figure
-            img(src='@/assets/curso/temas/t3/fig11.png', alt='')
+            img(src='@/assets/curso/temas/t3/fig11.png', alt='La figura muestra un storyboard titulado Flynn en el bosque Gaokerena. Contiene viñetas dibujadas a mano que representan diferentes escenas de una narrativa, con breves descripciones debajo de cada una')
 
     p.mb-4(data-aos="fade") Con plantillas bien elaboradas, no quedan dudas a la hora de desarrollar los elementos para el videojuego, porque permiten reflejar cómo se verá la escena al final, las acciones, objetivos y aspectos de importancia, esquematizando así las situaciones que se crearán para la historia.
 
@@ -464,12 +464,12 @@
       .col-lg-3.mb-4(data-aos="fade-right")
         .bg-4.p-4.h-100.alineo-vertical
           img(src='@/assets/curso/temas/t3/ico.svg', alt='', style="width: 110px;")
-          p Existe también una gran variedad de herramientas digitales para crear storyboards que son de uso gratuito, como Storyboardthat y Storyboarder. Estos programas también permiten desarrollar el guion gráfico.
+          p Existe también una gran variedad de herramientas digitales para crear #[em storyboards] que son de uso gratuito, como Storyboardthat y Storyboarder. Estos programas también permiten desarrollar el guion gráfico.
       .col-lg-9.mb-4(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido.mb-3
           p.mb-0 #[b Figura 12.] Ejemplo de storyboard digital
         figure
-          img(src='@/assets/curso/temas/t3/fig12.png', alt='')
+          img(src='@/assets/curso/temas/t3/fig12.png', alt='La figura muestra un ejemplo de storyboard digital. Contiene tres paneles que ilustran distintas fases de acción de un personaje en un entorno de juego o animación.')
 
 
     Separador
@@ -500,7 +500,7 @@
 
     p(data-aos="fade") Los niveles son una secuencia de escenarios de principio a fin de la historia, por donde el jugador se desplazará, todo dependiendo del tipo de mecánica de juego que se desea realizar.  Es decir, el espacio en el que se va a generar toda la acción, es ahí donde se van a localizar los diversos elementos que componen ese espacio.  
 
-    p.mb-4(data-aos="fade") Se deben tener varios elementos en cuenta. De forma principal la plataforma, o el piso sobre el que se puede caminar, nadar, volar, etc. Luego se deben crear los límites espaciales, como ejemplo paredes o muros, estos no pueden ser atravesados, a menos que el personaje tenga el poder de traspasarlas.  tercero, elementos que le dan vida al ambiente y que son fijos, un árbol, una piedra, estos no se pueden atravesar, pero se puede pasar frente a ellos. Cuarto, elementos que se pueden destruir, mover, tirar. Elementos que pueden esconder algún secreto, no tener nada, o facilitar el acceso a otro espacio. A continuación, algunos ejemplos:
+    p.mb-4(data-aos="fade") Se deben tener varios elementos en cuenta. De forma principal la plataforma, o el piso sobre el que se puede caminar, nadar, volar, etc. Luego se deben crear los límites espaciales, como ejemplo paredes o muros, estos no pueden ser atravesados, a menos que el personaje tenga el poder de traspasarlas. Tercero, elementos que le dan vida al ambiente y que son fijos, un árbol, una piedra, estos no se pueden atravesar, pero se puede pasar frente a ellos. Cuarto, elementos que se pueden destruir, mover, tirar. Elementos que pueden esconder algún secreto, no tener nada, o facilitar el acceso a otro espacio. A continuación, algunos ejemplos:
 
     .tarjeta.bg-1.p-4.py-5
       SlyderA(tipo="b" data-aos="fade-down")

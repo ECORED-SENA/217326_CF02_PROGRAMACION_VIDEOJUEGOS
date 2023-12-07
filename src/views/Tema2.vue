@@ -48,15 +48,15 @@
     Separador
 
     #t_2_2.titulo-segundo.color-acento-contenido
-      h2 2.2 #[em Scrum]
+      h2 2.2 Scrum
 
-    p.mb-4(data-aos="fade") #[em Scrum] es un marco de trabajo ágil de muy amplio uso en la industria del #[em software] que se fundamenta en los valores y principios ágiles definidos en (Manifiesto Ágil, 2001) y donde se definen tres pilares fundamentales según (SCRUMstudy, 2013) los cuales se describen a continuación:
+    p.mb-4(data-aos="fade") Scrum es un marco de trabajo ágil de muy amplio uso en la industria del #[em software], que se fundamenta en los valores y principios ágiles definidos (Manifiesto Ágil, 2001) y donde se definen tres pilares fundamentales según (SCRUMstudy, 2013) los cuales se describen a continuación:
 
     .row.justify-content-center.align-items-center.mb-2
       .col-lg-7.mb-4(data-aos="fade-right")
         .bg-5.p-4
           h4 #[t-color1 Transparencia]
-          p.mb-4 Hace referencia a que cualquier proceso de #[em Scrum] puede ser conocido por cualquiera. Esto es posible por medio de eventos como:
+          p.mb-4 Hace referencia a que cualquier proceso de Scrum puede ser conocido por cualquiera. Esto es posible por medio de eventos como:
           ul.lista-ul--color.fa-ul.mb-0
             li 
               i.fas.fa-gamepad
@@ -72,7 +72,7 @@
               | Documentos de visión del proyecto.
             li 
               i.fas.fa-gamepad
-              span.mb-0 Instrumentos de seguimiento, como: el burndown chart o el tablero de #[em Scrum] (#[em Scrum board]).
+              span.mb-0 Instrumentos de seguimiento, como: el burndown chart o el tablero de Scrum (#[em Scrum board]).
       .col-lg-5.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t2/img4.png', alt='')
 
@@ -94,7 +94,7 @@
               img(src='@/assets/curso/temas/t2/fig3.png', alt=' El cómic consta de tres paneles en los que una gallina y un cerdo conversan sobre la idea de abrir un restaurante. En el primero, la gallina propone la idea, mientras que el cerdo, curioso, pregunta cómo se llamaría. En el segundo panel, la gallina imagina un plato de jamón y huevos, sugiriendo el nombre Jamón con Huevos. Sin embargo, en el último panel, el cerdo reacciona con sorpresa y humor, señalando que mientras él estaría comprometido en el plato, la gallina sólo estaría involucrada, haciendo un juego de palabras sobre los ingredientes y su participación en el plato propuesto.') 
             figcaption.mt-3 Nota. Tomada de implementingscrum.com (2006).
 
-          p.mb-4(data-aos="fade") Por otro lado hay tres roles centrales dentro del marco de trabajo de #[em Scrum] (SCRUMstudy, 2013) que se describen a continuación: 
+          p.mb-4(data-aos="fade") Por otro lado hay tres roles centrales dentro del marco de trabajo de Scrum (SCRUMstudy, 2013) que se describen a continuación: 
 
           h4(data-aos="fade") #[t-color1 Roles de Scrum]
           
@@ -110,15 +110,15 @@
                 img.m-auto.mb-4(src='@/assets/curso/temas/t2/tarj-ico2.svg', alt='', style="width: 110px;")
                 .bg-6.w-fit.m-auto.px-2.mb-4
                   h5 #[em Scrum Master]
-                p Es un rol que se encarga de facilitar los procesos al interior del equipo de trabajo removiendo cualquier impedimento y apoyando procesos de empoderamiento personal, debe velar porque los elementos propios del marco de trabajo #[em Scrum] se apliquen de manera correcta.
+                p Es un rol que se encarga de facilitar los procesos al interior del equipo de trabajo removiendo cualquier impedimento y apoyando procesos de empoderamiento personal, debe velar porque los elementos propios del marco de trabajo Scrum se apliquen de manera correcta.
             .col-lg-4.col-md-6.mb-4
               .bg-1.br-10.p-4.text-white.h-100
                 img.m-auto.mb-4(src='@/assets/curso/temas/t2/tarj-ico3.svg', alt='', style="width: 110px;")
                 .bg-6.w-fit.m-auto.px-2.mb-4
                   h5 Equipo de desarrollo (#[em Developer Team]) 
-                p Son los responsables de la transformación de los requerimientos en código ejecutable a ser usado por el cliente, pero también son responsables de la planificación de las iteraciones, establecimiento de características para tener en cuenta en la verificación de un requerimiento terminado y presentación de avances a los clientes. Generalmente es un equipo autoorganizado y autogestionado.  
+                p Son los responsables de la transformación de los requerimientos en código ejecutable a ser usado por el cliente, pero también son responsables de la planificación de las iteraciones, establecimiento de características para tener en cuenta en la verificación de un requerimiento terminado y presentación de avances a los clientes. Generalmente, es un equipo autoorganizado y autogestionado.  
 
-    p.mb-4(data-aos="fade") Además de los roles, Scrum define un conjunto de eventos con participantes y objetivos claros que se desarrollan en momentos particulares del flujo general de #[em Scrum], a continuación, se detalla cada uno de estos:
+    p.mb-4(data-aos="fade") Además de los roles, Scrum define un conjunto de eventos con participantes y objetivos claros que se desarrollan en momentos particulares del flujo general de Scrum, a continuación, se detalla cada uno de estos:
 
     .row.justify-content-center(data-aos="fade-down")
       .col-lg-8
@@ -128,7 +128,7 @@
               img(src='@/assets/curso/temas/t2/img-infog.svg', alt='El diagrama ilustra el proceso de Scrum centrado en un Sprint de un mes de duración. Este ciclo empieza con una Planificación del Sprint que se extiende por 8 horas, seguido de Reuniones diarias de 15 minutos que ocurren a lo largo del mes. Al finalizar el Sprint, se realiza una Revisión del Sprint de 4 horas, culminando con una Reunión de retrospectiva de 3 horas. ')
 
           .tarjeta.bg-5.p-3(x="55%" y="24.5%" numero="+")
-            p.mb-0 #[b #[em Sprint:]] es el corazón de #[em Scrum] y se refiere a una iteración que está acotada generalmente por un lapso entre 2 y 4 semanas donde se realiza un ciclo completo de actividades de análisis, diseño, construcción y pruebas para desarrollar una versión del producto potencialmente entregable al cliente.
+            p.mb-0 #[b #[em Sprint:]] es el corazón de Scrum y se refiere a una iteración que está acotada generalmente por un lapso entre 2 y 4 semanas donde se realiza un ciclo completo de actividades de análisis, diseño, construcción y pruebas para desarrollar una versión del producto potencialmente entregable al cliente.
           .tarjeta.bg-5.p-3(x="84%" y="53%" numero="+")
             p.mb-0 #[b Planeación del #[em Sprint]:] reunión realizada justo antes del inicio de un #[em Sprint] donde se definen el subconjunto de requerimientos (#[em Sprint Backlog]) a ser desarrollados en los siguientes y cómo será el proceso requerido para hacer la entrega, lo cual incluye detallar los requerimientos en tareas concretas, estimación de tiempos/esfuerzo y distribución inicial de responsabilidades. Dependiendo de la duración del #[em Sprint] este tiempo de planificación puede variar, pero la métrica establecida para un #[em Sprint] de 4 semanas corresponde a una planeación de #[em Sprint] de 8 horas.
           .tarjeta.bg-5.p-3(x="56%" y="84.5%" numero="+")
@@ -142,7 +142,7 @@
           .tarjeta.bg-5.p-3(x="55.5%" y="55%" numero="+")
             p.mb-0 #[b Reunión diaria (#[em Daily Meeting])]: reunión realizada generalmente al inicio de cada día donde el equipo de trabajo informa en que ha venido trabajando, qué cosas realizará en el día y qué problemas se le han presentado. Esta es corta, se realiza de pie y debe tener una duración alrededor de los 15 minutos, por lo que, se alinea con los pilares de transparencia e inspección.
 
-    p.mb-4(data-aos="fade") Finalmente, el marco de trabajo #[em Scrum] define un conjunto de artefactos diseñados para registrar y gestionar información clave, con el fin de respaldar los tres pilares fundamentales del método. Estos artefactos también proveen información valiosa a lo largo de todo el proceso de desarrollo de software. Entre los artefactos más representativos de #[em Scrum] se incluyen los siguientes:
+    p.mb-4(data-aos="fade") Finalmente, el marco de trabajo Scrum define un conjunto de artefactos diseñados para registrar y gestionar información clave, con el fin de respaldar los tres pilares fundamentales del método. Estos artefactos también proveen información valiosa a lo largo de todo el proceso de desarrollo de software. Entre los artefactos más representativos de Scrum se incluyen los siguientes:
 
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-7.mb-4(data-aos="fade-right")
@@ -153,7 +153,7 @@
           figcaption.mt-3 Nota. Tomada de intl-blog.imgix.net (2019). 
       .col-lg-5.mb-4(data-aos="fade-left")
         .bg-2.p-4.p-lg-5.h-100
-          p.mb-0 Tablero de #[em Scrum] (#[em Scrumboard]): es un elemento visual donde se integra la mayor parte de los elementos del marco de trabajo Scrum, en él se indica la carga de trabajo, el estado actual de cada una de las actividades y sus respectivos responsables. Este es un elemento que se sincroniza de manera permanente y facilita la implementación de los pilares de transparencia, inspección y adaptabilidad. Si bien se aconseja el uso de un tablero, existen diferentes tipos de herramientas digitales que permiten la implementación de un tablero de #[em Scrum].
+          p.mb-0 Tablero de Scrum (#[em Scrumboard]): es un elemento visual donde se integra la mayor parte de los elementos del marco de trabajo Scrum, en él se indica la carga de trabajo, el estado actual de cada una de las actividades y sus respectivos responsables. Este es un elemento que se sincroniza de manera permanente y facilita la implementación de los pilares de transparencia, inspección y adaptabilidad. Si bien se aconseja el uso de un tablero, existen diferentes tipos de herramientas digitales que permiten la implementación de un tablero de Scrum.
 
     .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-lg-10

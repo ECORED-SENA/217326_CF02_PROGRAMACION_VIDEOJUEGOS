@@ -44,8 +44,12 @@
                   img(src='@/assets/curso/temas/t1/linea-img2.png', alt='')
               .row.justify-content-center.my-4(titulo="1978")
                 .col-md-5.mb-4.mb-md-0
-                  p A su vez, en Japón, en 1978, por la empresa Taito, surge ¨”Space Invaders”, uno de los grandes referentes de los videojuegos. 
-                  p Namco crea, en 1980, uno de los juegos más icónicos del mercado: “Pacman”. 
+                  p A su vez, en Japón, en 1978, por la empresa Taito, surge 
+                    span.bg-1.text-white.fw-bold ”Space Invaders”
+                    | , uno de los grandes referentes de los videojuegos. 
+                  p Namco crea, en 1980, uno de los juegos más icónicos del mercado: 
+                    span.bg-1.text-white.fw-bold “Pacman”
+                    | . 
                 .col-md-6
                   img(src='@/assets/curso/temas/t1/linea-img3.png', alt='')
               .row.justify-content-center.my-4(titulo="1981")
@@ -57,59 +61,99 @@
                   img(src='@/assets/curso/temas/t1/linea-img4.png', alt='')
               .row.justify-content-center.my-4(titulo="1982")
                 .col-md-5.mb-4.mb-md-0
-                  p En el año 1982, cuatro trabajadores de la empresa Atari deciden renunciar, porque no se consideraban valorados por la empresa, después de que esta fue vendida a la Warner, y juntos crean la empresa Activision, lanzando el primer videojuego de plataformas, “Pitfall”. 
+                  p En el año 1982, cuatro trabajadores de la empresa Atari deciden renunciar, porque no se consideraban valorados por la empresa, después de que esta fue vendida a la Warner, y juntos crean la empresa Activision, lanzando el primer videojuego de plataformas, 
+                    span.bg-1.text-white.fw-bold “Pitfall”
+                    | . 
                 .col-md-6
                   img(src='@/assets/curso/temas/t1/linea-img5.png', alt='')
               .row.justify-content-center.my-4(titulo="1985")
                 .col-md-5.mb-4.mb-md-0
-                  p En los años 80, en Estados Unidos, los videojuegos tienen una caída considerable; por ello, llega Japón al rescate y, en 1985, Nintendo  posiciona uno de los juegos más icónicos de la historia, “Super Mario Bros.”,  que viene del juego “Donkey Kong”. El mismo diseñador crea después “Zelda”, la historia de un niño que se mueve en el campo y avanza explorando diversos sitios. 
+                  p En los años 80, en Estados Unidos, los videojuegos tienen una caída considerable; por ello, llega Japón al rescate y, en 1985, Nintendo  posiciona uno de los juegos más icónicos de la historia, 
+                    span.bg-1.text-white.fw-bold “Super Mario Bros.”
+                    | ,  que viene del juego 
+                    span.bg-1.text-white.fw-bold “Donkey Kong”
+                    | . El mismo diseñador crea después 
+                    span.bg-1.text-white.fw-bold “Zelda”
+                    | , la historia de un niño que se mueve en el campo y avanza explorando diversos sitios. 
                 .col-md-6
                   img(src='@/assets/curso/temas/t1/linea-img6.png', alt='')
               .row.justify-content-center.my-4(titulo="1987")
                 .col-md-5.mb-4.mb-md-0
-                  p En 1987, la empresa Capcom crea “Streetfighter” y otros títulos más. Asimismo, otra empresa importante, Konami, crea “Contra”.
-                  p En este mismo año,  LucasFilm Games saca al mercado un juego de aventuras llamado “Maniac Mansion”, el primero en hacer uso del clic del mouse. Posterior a ello, también se creó “Indiana Jones and the last crusade”, en 1989.
+                  p En 1987, la empresa Capcom crea 
+                    span.bg-1.text-white.fw-bold “Streetfighter” 
+                    | y otros títulos más. Asimismo, otra empresa importante, Konami, crea 
+                    span.bg-1.text-white.fw-bold “Contra”
+                    | .
+                  p En este mismo año, LucasFilm Games saca al mercado un juego de aventuras llamado 
+                    span.bg-1.text-white.fw-bold “Maniac Mansion”
+                    | , el primero en hacer uso del clic del mouse. Posterior a ello, también se creó 
+                    span.bg-1.text-white.fw-bold “Indiana Jones and the last crusade”
+                    | , en 1989.
                 .col-md-6
                   img(src='@/assets/curso/temas/t1/linea-img7.png', alt='')
               .row.justify-content-center.my-4(titulo="1988")
                 .col-md-5.mb-4.mb-md-0
-                  p En 1988, Nintendo decide crear una consola portátil, llamada Gameboy, cuyo juego estrella es el “Tetris”, que fue creado en Rusia, por Alexey Pajitnov, quien trabajaba para una empresa rusa, que distribuye el juego, y, finalmente, llega a manos de Nintendo. 
+                  p En 1988, Nintendo decide crear una consola portátil, llamada Gameboy, cuyo juego estrella es el 
+                    span.bg-1.text-white.fw-bold “Tetris”
+                    | , que fue creado en Rusia, por Alexey Pajitnov, quien trabajaba para una empresa rusa, que distribuye el juego, y, finalmente, llega a manos de Nintendo. 
                 .col-md-6
                   img(src='@/assets/curso/temas/t1/linea-img8.png', alt='')
               .row.justify-content-center.my-4(titulo="1991")
                 .col-md-5.mb-4.mb-md-0
-                  p Sega, después de mucha competencia con Nintendo, crea “Sonic”, en 1991, uno de sus íconos estrella.
-                  p En un principio, los juegos se destacan por que son representados con luces blancas. Posterior a ello, en los años 80, introducen los 8, 16 y 32 bits. Y en los 90, se da una evolución hacia el 3D, donde los gráficos se encuentran renderizados y pueden ser usados en las diversas consolas. 
+                  p Sega, después de mucha competencia con Nintendo, crea 
+                    span.bg-1.text-white.fw-bold “Sonic”
+                    | , en 1991, uno de sus íconos estrella.
+                  p En un principio, los juegos se destacan porque son representados con luces blancas. Posterior a ello, en los años 80, introducen los 8, 16 y 32 bits. Y en los 90, se da una evolución hacia el 3D, donde los gráficos se encuentran renderizados y pueden ser usados en las diversas consolas. 
                 .col-md-6
                   img(src='@/assets/curso/temas/t1/linea-img9.png', alt='')
               .row.justify-content-center.my-4(titulo="1992")
                 .col-md-5.mb-4.mb-md-0
-                  p Id Software creó juegos que rápidamente se usaron en computadoras, como “Wolfenstein” 3D y Doom juegos en primera persona tipo shooter que tenían una vista y recorrido en 3D creado en 1992 y 1993 respectivamente. 
+                  p Id Software creó juegos que rápidamente se usaron en computadoras, como 
+                    span.bg-1.text-white.fw-bold “Wolfenstein” 
+                    | 3D y Doom juegos en primera persona tipo shooter que tenían una vista y recorrido en 3D creado en 1992 y 1993 respectivamente. 
                 .col-md-6
                   img(src='@/assets/curso/temas/t1/linea-img10.png', alt='')
               .row.justify-content-center.my-4(titulo="1996")
                 .col-md-5.mb-4.mb-md-0
-                  p En 1994, “Donkey Kong Country” sale al mercado, con un estilo 3D prerrenderizado, igual que “Warcraft Orcs and humans”.
-                  p En 1996, aparece uno de los primeros juegos de estrategia, el gran reconocido “Diablo”, un RPG,  seguido de “Age of empires”, en 1997. 
-                  p Sony y Sega son los nuevos competidores del mercado, y salen nuevos juegos, como “Resident Evil”, en 1996. En ese mismo año, el famoso juego  “Super Mario 64” es adaptado por primera vez en 3D.
+                  p En 1994, 
+                    span.bg-1.text-white.fw-bold “Donkey Kong Country” 
+                    | sale al mercado, con un estilo 3D prerrenderizado, igual que 
+                    span.bg-1.text-white.fw-bold “Warcraft Orcs and humans”
+                    | .
+                  p En 1996, aparece uno de los primeros juegos de estrategia, el gran reconocido 
+                    span.bg-1.text-white.fw-bold “Diablo”
+                    | , un RPG,  seguido de 
+                    span.bg-1.text-white.fw-bold “Age of empires”
+                    | , en 1997. 
+                  p Sony y Sega son los nuevos competidores del mercado, y salen nuevos juegos, como 
+                    span.bg-1.text-white.fw-bold “Resident Evil”
+                    | , en 1996. En ese mismo año, el famoso juego 
+                    span.bg-1.text-white.fw-bold “Super Mario 64” 
+                    | es adaptado por primera vez en 3D.
                 .col-md-6
                   img(src='@/assets/curso/temas/t1/linea-img11.png', alt='')
               .row.justify-content-center.my-4(titulo="2001")
                 .col-md-5.mb-4.mb-md-0
-                  p Uno de los grandes juegos, “Halo”, se inserta al mercado en el 2001, mejorando enormemente en la jugabilidad. 
+                  p Uno de los grandes juegos, 
+                    span.bg-1.text-white.fw-bold “Halo”
+                    | , se inserta al mercado en el 2001, mejorando enormemente en la jugabilidad. 
                   p Finalmente, esta evolución del videojuego muestra que la calidad de imagen es muy superior, logrando juegos fotorealistas.
                 .col-md-6
                   img(src='@/assets/curso/temas/t1/linea-img12.png', alt='')
               .row.justify-content-center.my-4(titulo="2004")
                 .col-md-5.mb-4.mb-md-0
-                  p En el año 2004, “World of the Warcraft”, el cual es la cuarta saga de una serie que evoluciona como multijugador masivo de tiempo real.
+                  p En el año 2004, 
+                    span.bg-1.text-white.fw-bold “World of the Warcraft”
+                    | , el cual es la cuarta saga de una serie que evoluciona como multijugador masivo de tiempo real.
                   p En 2004, llega una nueva forma de videojuegos, al eliminar los controles, con el Kinect de la Xbox 360, creando juegos que cambian la jugabilidad, utilizando el cuerpo de la persona como herramienta de acción. 
                 .col-md-6
                   img(src='@/assets/curso/temas/t1/linea-img13.png', alt='')
               .row.justify-content-center.my-4(titulo="2009")
                 .col-md-5.mb-4.mb-md-0
                   p En adelante a los años 2000, se ve un desarrollo muy alto en la calidad y jugabilidad, mejorando día a día en cada una de las entregas. 
-                  p En el año 2009, nace “Angry Birds”, uno de los juegos más descargados de la Play Store, adentrándose en los celulares inteligentes. 
+                  p En el año 2009, nace 
+                    span.bg-1.text-white.fw-bold “Angry Birds”
+                    | , uno de los juegos más descargados de la Play Store, adentrándose en los celulares inteligentes. 
                   p Cabe destacar que los juegos, debido a los altos estándares, son cada vez más pesados y requieren de procesamientos mucho más veloces, pero esto ha permitido que sean mucho más realistas que antes.  Los videojuegos día a día siguen evolucionando. 
                 .col-md-6
                   img(src='@/assets/curso/temas/t1/linea-img14.png', alt='')
@@ -127,7 +171,7 @@
         .row.align-items-center.justify-content-center.my-4
           .col-md-5.mb-4.mb-md-0
             h3 Audio Ninja 
-            p Es un juego con estética 2D, cuyo fin es derrotar enemigos presionando botones en la pantalla para ir atacándolos al ritmo de la música. Fue diseñado para la plataforma Apple Store en el 2013, por la compañía Cocodrilo Dog, quedando como subcampeón en la categoría ‘Game runner up’ en el mismo año.
+            p Es un juego con estética 2D, cuyo fin es derrotar enemigos presionando botones en la pantalla para ir atacándolos al ritmo de la música. Fue diseñado para la plataforma Apple Store en el 2013, por la compañía Cocodrilo Dog, quedando como subcampeón en la categoría ‘#[em Game runner up]’ en el mismo año.
           .col-md-6
             img(src='@/assets/curso/temas/t1/slider-img1.png', alt='')
         .row.align-items-center.justify-content-center.my-4
@@ -139,7 +183,7 @@
         .row.align-items-center.justify-content-around.my-4
           .col-md-5.mb-4.mb-md-0
             h3 Poltergeist: a Pixelated horror
-            p En este juego tipo puzzle en 2D, creado bajo la técnica pixel art, en vista isométrica, el jugador debe asumir el papel de Henry B. Knight, un fantasma que tiene por objetivo hacer huir a la familia que vive en su antigua mansión. Fue creado por el estudio Glitchy Pixel y se lanzó al mercado en el año 2014.
+            p En este juego tipo #[em puzzle] en 2D, creado bajo la técnica #[em pixel art], en vista isométrica, el jugador debe asumir el papel de Henry B. Knight, un fantasma que tiene por objetivo hacer huir a la familia que vive en su antigua mansión. Fue creado por el estudio Glitchy Pixel y se lanzó al mercado en el año 2014.
           .col-md-3
             img(src='@/assets/curso/temas/t1/slider-img3.png', alt='')
         .row.align-items-center.justify-content-center.my-4
@@ -169,7 +213,7 @@
         .row.align-items-center.justify-content-center.my-4
           .col-md-5.mb-4.mb-md-0
             h3 Haimrik (2018) 
-            p “Haimrik” fue creado por la compañía Below The Game (BTG) y una empresa rusa en el año 2018, alcanzando un importante avance en cuanto a propiedad intelectual para Colombia, ya que se logró lanzar para plataformas como Xbox One, Playstation 4 y PC en Steam.  Se trata de un videojuego en 2D de acción y aventuras, ubicado en escenarios del Medioevo, mezcla el entretenimiento con lo educativo, ya que el objetivo del jugador es derrotar a los enemigos usando las palabras correctas para resolver los rompecabezas presentes en cada nivel. 
+            p “Haimrik” fue creado por la compañía Below The Game (BTG) y una empresa rusa en el año 2018, alcanzando un importante avance en cuanto a propiedad intelectual para Colombia, ya que se logró lanzar para plataformas como Xbox One, Playstation 4 y PC en Steam. Se trata de un videojuego en 2D de acción y aventuras, ubicado en escenarios del Medioevo, mezcla el entretenimiento con lo educativo, por el hecho de que el objetivo del jugador es derrotar a los enemigos usando las palabras correctas para resolver los rompecabezas presentes en cada nivel.
           .col-md-6
             img(src='@/assets/curso/temas/t1/slider-img8.png', alt='')
         .row.align-items-center.justify-content-center.my-4
@@ -271,15 +315,15 @@
               .row.align-items-center.justify-content-center.my-4
                 .col-md-6.mb-4.mb-md-0
                   h4.t-color1 Juegos casuales
-                  p Videojuegos basados en temáticas de entretenimiento o educación, que están destinados a jugadores no habituales que buscan una distracción diferente. Están basados en reglas simples y no requieren de una gran dedicación ni compromiso. Entre ellos están “Angry Birds”, “Plants Vs Zombies”.
+                  p Videojuegos basados en temáticas de entretenimiento o educación, que están destinados a jugadores no habituales que buscan una distracción diferente. Están basados en reglas simples y no requieren de una gran dedicación ni compromiso. Entre ellos están “Angry Birds”, “Plants Vs. Zombies”.
                 .col-md-5
                   img(src='@/assets/curso/temas/t1/slider2-img9.png', alt='')
 
           .fondo-subt.w-fit.pe-4.mb-4(data-aos="fade")
             .row.d-flex.align-items-center.text-white
-              .col-auto 
-                img(src='@/assets/curso/temas/t3/ico-subt.svg', alt='')
-              .col-auto 
+              .col-md-auto.col-4
+                img(src='@/assets/curso/temas/t3/ico-subt.svg', alt='', style="max-width: 100px;")
+              .col-md-auto.col-8
                 h3.mb-0 Sistemas de clasificación en los videojuegos
           
           p.mb-4(data-aos="fade") Para el desarrollo de videojuegos existen sistemas de clasificación para poder ser vendidos o alquilados. Entre ellos, es posible destacar el sistema europeo y el americano.
@@ -365,7 +409,7 @@
             .bg-6.br-10.w-fit.mb-4.px-4.py-2(data-aos="fade")
               h4.mb-0.text-white PC 
 
-            p.mb-4(data-aos="fade") En los últimos años se ha vuelto muy popular el PC como sistema de videojuegos, esto en parte porque las desarrolladoras están lanzando por este medio los juegos que salen en videoconsolas. Se perfila a futuro como el sistema por excelencia. En el PC, es posible encontrar plataformas dedicadas a videojuegos basados en la nube, en un sistema similar a como trabaja Netflix, de las cuales podemos destacar las siguientes:
+            p.mb-4(data-aos="fade") En los últimos años, se ha vuelto muy popular el PC como sistema de videojuegos, esto en parte porque las desarrolladoras están lanzando por este medio los juegos que salen en videoconsolas. Se perfila a futuro como el sistema por excelencia. En el PC, es posible encontrar plataformas dedicadas a videojuegos basados en la nube, en un sistema similar a como trabaja Netflix, de las cuales podemos destacar las siguientes:
 
           .col-lg-4.d-none.d-lg-flex(data-aos="fade-right")
             img(src='@/assets/curso/temas/t1/img2.svg', alt='') 
@@ -412,7 +456,12 @@
                     img.m-auto(src='@/assets/curso/temas/t1/tarj3-img6.png' alt='' style="max-width: 115px;")
                 .bg-6.w-fit.mb-4.m-auto.px-4.py-2
                   h5.mb-0 Navegadores web
-                p.mb-0 Son plataformas que toman como base los navegadores web; generalmente alojan juegos casuales. Un sistema en el cual la mayoría son juegos gratis. Tuvo sus inicios en la ya difunta Adobe Flash Player. Entre ellas, se destacan: https://armorgames.com/, https://www.minijuegos.com/, https://www.juegosdiarios.com/
+                p.mb-0 Son plataformas que toman como base los navegadores web; generalmente alojan juegos casuales. Un sistema en el cual la mayoría son juegos gratis. Tuvo sus inicios en la ya difunta Adobe Flash Player. Entre ellas, se destacan: 
+                  a(:href="('https://armorgames.com/')" target="_blank") https://armorgames.com/
+                  | , 
+                  a(:href="('https://www.minijuegos.com/')" target="_blank") https://www.minijuegos.com/
+                  | , 
+                  a(:href="('https://www.juegosdiarios.com/')" target="_blank") https://www.juegosdiarios.com/
 
     .bg-6.br-10.w-fit.mb-4.px-4.py-2(data-aos="fade")
       h4.mb-0.text-white Máquinas recreativas o arcades 
@@ -432,7 +481,7 @@
               h4.mb-0.text-white Celulares
 
           .col-lg-7.mb-4(data-aos="fade-right")
-            p Los celulares, en la última década, se han posicionado como el hardware con mayor catálogo de juegos. Sea de paso dicho, su mayor concentración se basa en videojuegos casuales, popularizándose con el lanzamiento de “Angry Birds”, “Candy Crush”, “Plant vs Zombies”, entre otros. Aunque con la tecnología avanzando de manera exponencial, los videojuegos que antes se lanzaban en consolas están llegando a estos dispositivos; juegos tipo battle royale (todos contra todos), como “Free Fire” o “Fortnite”, siendo así que las consolas portátiles prácticamente han desaparecido del panorama actual y los teléfonos móviles han tomado el lugar que estas han dejado.
+            p Los celulares, en la última década, se han posicionado como el hardware con mayor catálogo de juegos. Sea de paso dicho, su mayor concentración se basa en videojuegos casuales, popularizándose con el lanzamiento de “Angry Birds”, “Candy Crush”, “Plant vs. Zombies”, entre otros. Aunque con la tecnología avanzando de manera exponencial, los videojuegos que antes se lanzaban en consolas están llegando a estos dispositivos; juegos tipo battle royale (todos contra todos), como “Free Fire” o “Fortnite”, siendo así que las consolas portátiles prácticamente han desaparecido del panorama actual y los teléfonos móviles han tomado el lugar que estas han dejado.
           .col-lg-5.mb-4(data-aos="fade-left")
             img(src='@/assets/curso/temas/t1/img4.png', alt='') 
 

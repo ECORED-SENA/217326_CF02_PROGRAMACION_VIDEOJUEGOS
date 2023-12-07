@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Conceptos de diseño del videojuego',
     descripcionCurso:
-      'Breve reseña de la historia de los videojuegos en la que se dará a conocer los tipos de videojuegos. Se desarrollará la idea base del videojuego, realizando el guion narrativo y técnico, con el storyboard, las mecánicas de juego y los niveles de juego.',
+      'Breve reseña de la historia de los videojuegos en la que se dará a conocer los tipos de videojuegos. Se desarrollará la idea base del videojuego, realizando el guion narrativo y técnico, con el <em>storyboard</em>, las mecánicas de juego y los niveles de juego.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -82,7 +82,7 @@ export default {
           },
           {
             numero: '2.2',
-            titulo: '<em>Scrum</em>',
+            titulo: 'Scrum',
             hash: 't_2_2',
           },
         ],
@@ -133,7 +133,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Pitch document',
+        titulo: '<em>Pitch document</em>',
         desarrolloContenidos: true,
       },
     ],
@@ -191,21 +191,21 @@ export default {
       link: 'https://www.youtube.com/watch?v=chR6kx4btDQ',
     },
     {
-      tema: 'Game Document',
+      tema: '<em>Game Document</em>',
       referencia:
         'D Green Game (2022, junio 16). ¿Cómo CREAR tu propio GDD? + plantillas GRATIS | Game Design Document.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=GYChRCrj2dk',
     },
     {
-      tema: 'Pitch Document',
+      tema: '<em>Pitch Document</em>',
       referencia:
         'Laporta, A. (2020, diciembre 29). Elevator pitch: qué es y claves para elaborarlo paso a paso. APD España; APD.',
       tipo: 'Página Web',
       link: 'https://www.apd.es/que-es-elevator-pitch-y-como-elaborarlo/',
     },
     {
-      tema: 'Pitch',
+      tema: '<em>Pitch</em>',
       referencia: 'Benjamin Cox. (2016, junio 9). Como Hacer Un Pitch.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=554Fwv7jQMI',
@@ -227,7 +227,7 @@ export default {
     {
       termino: 'Diagrama de Gantt',
       significado:
-        'representación gráfica generalmente con barras horizontales de la evolución de un proyecto. describe las actividades con su fecha de inicio, fecha de finalización y duración.',
+        'representación gráfica generalmente con barras horizontales de la evolución de un proyecto. Describe las actividades con su fecha de inicio, fecha de finalización y duración.',
     },
     {
       termino: '<em>Game Design Document</em>',
@@ -252,7 +252,7 @@ export default {
     {
       termino: 'Pipeline',
       significado:
-        'se encarga de administrar el proceso, establecer diferentes fases y adjudicar cargos a los trabajadores o grupos dentro del estudio. Un pipeline se ejecuta con el fin de organizar todo el proyecto y evitar problemas en cualquier momento de la producción.',
+        'se encarga de administrar el proceso, establecer diferentes fases y adjudicar cargos a los trabajadores o grupos dentro del estudio. Un Pipeline se ejecuta con el fin de organizar todo el proyecto y evitar problemas en cualquier momento de la producción.',
     },
     {
       termino: '<em>Pitch document</em>',
@@ -361,7 +361,7 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: '',
+          nombre: 'Emilsen Alfonso Bautista',
           cargo: 'Actividad didáctica',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',

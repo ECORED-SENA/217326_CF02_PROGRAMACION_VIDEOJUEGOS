@@ -10,7 +10,7 @@
             img(src="@/assets/template/arrastrar-terminos.svg", alt="")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
-          h2 Game Document Design
+          h2 #[em Game Document Design]
         p.mb-4 Relacionar los conceptos clave con sus respectivas definiciones según se presentan en el Game Document, demostrando comprensión de la terminología y su aplicación en el diseño de juegos.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
