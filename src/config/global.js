@@ -317,7 +317,7 @@ export default {
           nombre: 'Carlos Andrés Cortes',
           cargo: 'Instructor',
           centro:
-            'Centro de Diseño e Innovación Tecnológica Industrial - Regional ',
+            'Centro de Diseño e Innovación Tecnológica Industrial - Regional Risaralda',
         },
         {
           nombre: 'Paola Alexandra Moya Peralta',

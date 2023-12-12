@@ -467,7 +467,7 @@
           p Existe también una gran variedad de herramientas digitales para crear #[em storyboards] que son de uso gratuito, como Storyboardthat y Storyboarder. Estos programas también permiten desarrollar el guion gráfico.
       .col-lg-9.mb-4(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido.mb-3
-          p.mb-0 #[b Figura 12.] Ejemplo de storyboard digital
+          p.mb-0 #[b Figura 12.] Ejemplo de #[em storyboard] digital
         figure
           img(src='@/assets/curso/temas/t3/fig12.png', alt='La figura muestra un ejemplo de storyboard digital. Contiene tres paneles que ilustran distintas fases de acción de un personaje en un entorno de juego o animación.')
 
