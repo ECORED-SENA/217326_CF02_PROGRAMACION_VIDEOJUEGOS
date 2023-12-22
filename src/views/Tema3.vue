@@ -481,15 +481,17 @@
 
     figure.mb-5(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video.
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/s-uKIJ5Cbuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Mecánica en los videojuegos
+
 
     p.mb-4(data-aos="fade") Ahora se detallará las dinámicas utilizada en los videojuegos: 
 
     figure.mb-5(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video.
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/jZP5oiToQTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Dinámicas en los videojuegos
+
 
     .fondo-subt.w-fit.pe-4(data-aos="fade")
       .row.d-flex.align-items-center.text-white.mb-4
@@ -537,8 +539,9 @@
 
     figure(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video.
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/avAxVGe1Uw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. #[em Game Document Design]
+
 
 
 </template>
