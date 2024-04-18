@@ -91,21 +91,6 @@
             figure
               img(src='@/assets/curso/temas/t3/fig7.svg', alt='La figura presenta un diagrama con los doce arquetipos de personalidad de Carl Gustav Jung. Cada arquetipo está representado por un icono y un nombre, como Gobernante, Bufón, Amante, entre otros, y está vinculado a ciertas motivaciones y características personales básicas.') 
 
-    .row.justify-content-center.align-items-center
-      .col-lg-5.col-10.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/temas/t3/img.png', alt='')
-      .col-lg-7.mb-4(data-aos="fade-left")
-        .bg-1.br-10.p-4
-          h5.text-white.mb-1 Ficha técnica de un personaje
-          p.text-white.mb-4 Observe el ejemplo de la ficha técnica de identidad para un personaje principal.
-          .row
-            .col-lg-7
-              a.anexo(:href="obtenerLink('/downloads/Ejemplo_ficha_tecnica_personaje.pdf')" target="_blank")
-                .anexo__icono
-                  img(src="@/assets/template/icono-pdf.svg")
-                .anexo__texto
-                  p #[b Anexo.] Ejemplo de la ficha técnica de un personaje.
-
         
     Separador
 
@@ -118,7 +103,7 @@
       .row.d-flex.align-items-center.text-white.mb-4
         .col-auto 
           img(src='@/assets/curso/temas/t3/ico-subt.svg', alt='')
-        .col-auto 
+        .col 
           h3.mb-0 Tipos de narrador
 
     p.mb-4(data-aos="fade") Hay varios tipos de narradores, entre ellos está el que todo lo ve (omnisciente) y todo lo sabe, es decir, es quien describe todo lo que sucede incluso lo que están pensando los personajes: 
@@ -142,7 +127,7 @@
       .row.d-flex.align-items-center.text-white.mb-4
         .col-auto 
           img(src='@/assets/curso/temas/t3/ico-subt.svg', alt='')
-        .col-auto 
+        .col 
           h3.mb-0 Características de la historia
 
     p.mb-4(data-aos="fade") En la poética de Aristóteles, se definen las características esenciales que conforman una historia:
@@ -188,7 +173,7 @@
             .row.d-flex.align-items-center.text-white
               .col-auto 
                 img(src='@/assets/curso/temas/t3/ico-subt.svg', alt='')
-              .col-auto 
+              .col 
                 h3.mb-0 Estructura narrativa en 3 actos
 
           p.mb-4(data-aos="fade") El formato estándar de cualquier historia, incluida la de los videojuegos, empieza con: 
@@ -325,7 +310,7 @@
               .row.d-flex.align-items-center.text-white
                 .col-auto 
                   img(src='@/assets/curso/temas/t3/ico-subt.svg', alt='')
-                .col-auto 
+                .col 
                   h3.mb-0 Intensidad de la luz 
 
             p.mb-4(data-aos="fade") Las propiedades de la luz cuando golpean al objeto se pueden clasificar de dos maneras principales, que son:
@@ -347,7 +332,7 @@
       .row.d-flex.align-items-center.text-white.mb-4
         .col-auto 
           img(src='@/assets/curso/temas/t3/ico-subt.svg', alt='')
-        .col-auto 
+        .col 
           h3.mb-0 Aspectos importantes de las sombras
 
     p.mb-4(data-aos="fade") Las sombras cumplen un papel fundamental en cualquier composición, pues ayudan a generar volumen a los objetos. Se pueden clasificar de tres maneras:
@@ -378,7 +363,7 @@
             .row.d-flex.align-items-center.text-white
               .col-auto 
                 img(src='@/assets/curso/temas/t3/ico-subt.svg', alt='')
-              .col-auto 
+              .col 
                 h3.mb-0 Triángulo básico de iluminación
 
           p.mb-4(data-aos="fade") Es el set adecuado para iluminar una escena y así conseguir resultados efectivos. Este esquema situaría la luz principal, una luz de relleno y la contraluz, que se complementan entre sí. La luz principal se sitúa hacia el objeto, la luz de relleno va al lado opuesto, con una intensidad más baja, y la contraluz se sitúa por detrás, para darle profundidad a la escena.
@@ -470,6 +455,20 @@
           p.mb-0 #[b Figura 12.] Ejemplo de #[em storyboard] digital
         figure
           img(src='@/assets/curso/temas/t3/fig12.png', alt='La figura muestra un ejemplo de storyboard digital. Contiene tres paneles que ilustran distintas fases de acción de un personaje en un entorno de juego o animación.')
+    
+    .tarjeta.color-primario.p-3.col-xl-7.m-auto.col-lg-10.mt-4(data-aos="zoom-in")
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-4.col-lg-2
+          img(src="@/assets/curso/temas/t3/1.svg")
+        .col
+          .row.justify-content-between.align-items-center.text-white
+            .col.mb-3.mb-sm-0
+              h3.mb-1 Storyboard
+              p.text-small Revise el Ejemplo de #[em storyboard] que se encuentra a continuación. 
+            .col-sm-auto
+              a.boton.color-acento-botones(:href="obtenerLink('downloads/ejemplo_storyboard.pdf')" target="_blank")
+                span(style="color:initial !important;") Descargar
+                i.fas.fa-file-download(style="color:initial !important;")
 
 
     Separador
@@ -497,7 +496,7 @@
       .row.d-flex.align-items-center.text-white.mb-4
         .col-auto 
           img(src='@/assets/curso/temas/t3/ico-subt.svg', alt='')
-        .col-auto 
+        .col 
           h3.mb-0 Niveles de Juego
 
     p(data-aos="fade") Los niveles son una secuencia de escenarios de principio a fin de la historia, por donde el jugador se desplazará, todo dependiendo del tipo de mecánica de juego que se desea realizar.  Es decir, el espacio en el que se va a generar toda la acción, es ahí donde se van a localizar los diversos elementos que componen ese espacio.  

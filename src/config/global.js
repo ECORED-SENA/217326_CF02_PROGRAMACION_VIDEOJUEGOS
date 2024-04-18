@@ -260,7 +260,7 @@ export default {
         'es el documento que resume toda la información sobre un juego que se quiera crear. El documento debe contener toda la información importante, de modo que incluso si no se está presente para explicarlo todo, se entienda con claridad.',
     },
     {
-      termino: '<em>Scrum</em>',
+      termino: 'Scrum',
       significado:
         'es un marco de gestión de proyectos de metodología ágil que ayuda a los equipos a estructurar y gestionar el trabajo mediante un conjunto de valores, principios y prácticas.',
     },
@@ -321,7 +321,7 @@ export default {
         },
         {
           nombre: 'Paola Alexandra Moya Peralta',
-          cargo: 'Diseñadora instruccional',
+          cargo: 'Diseñadora Instruccional',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
@@ -338,7 +338,7 @@ export default {
         },
         {
           nombre: 'Wilson Andrés Arenales Cáceres',
-          cargo: 'Storyboard e ilustración',
+          cargo: 'Storyboard e Ilustración',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
@@ -362,7 +362,7 @@ export default {
         },
         {
           nombre: 'Emilsen Alfonso Bautista',
-          cargo: 'Actividad didáctica',
+          cargo: 'Actividad Didáctica',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },

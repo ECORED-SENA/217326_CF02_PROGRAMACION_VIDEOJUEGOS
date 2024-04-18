@@ -28,4 +28,9 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+@media screen and (max-width: 500px)
+  .fondo-subt
+    background-size: cover
+    border-radius: 25px
+</style>

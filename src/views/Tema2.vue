@@ -110,7 +110,7 @@
                 img.m-auto.mb-4(src='@/assets/curso/temas/t2/tarj-ico2.svg', alt='', style="width: 110px;")
                 .bg-6.w-fit.m-auto.px-2.mb-4
                   h5 #[em Scrum Master]
-                p Es un rol que se encarga de facilitar los procesos al interior del equipo de trabajo removiendo cualquier impedimento y apoyando procesos de empoderamiento personal, debe velar porque los elementos propios del marco de trabajo Scrum se apliquen de manera correcta.
+                p Es un rol que se encarga de facilitar los procesos al interior del equipo de trabajo, removiendo cualquier impedimento y apoyando procesos de empoderamiento personal, debe velar porque los elementos propios del marco de trabajo Scrum se apliquen de manera correcta.
             .col-lg-4.col-md-6.mb-4
               .bg-1.br-10.p-4.text-white.h-100
                 img.m-auto.mb-4(src='@/assets/curso/temas/t2/tarj-ico3.svg', alt='', style="width: 110px;")
@@ -132,7 +132,7 @@
           .tarjeta.bg-5.p-3(x="84%" y="53%" numero="+")
             p.mb-0 #[b Planeación del #[em Sprint]:] reunión realizada justo antes del inicio de un #[em Sprint] donde se definen el subconjunto de requerimientos (#[em Sprint Backlog]) a ser desarrollados en los siguientes y cómo será el proceso requerido para hacer la entrega, lo cual incluye detallar los requerimientos en tareas concretas, estimación de tiempos/esfuerzo y distribución inicial de responsabilidades. Dependiendo de la duración del #[em Sprint] este tiempo de planificación puede variar, pero la métrica establecida para un #[em Sprint] de 4 semanas corresponde a una planeación de #[em Sprint] de 8 horas.
           .tarjeta.bg-5.p-3(x="56%" y="84.5%" numero="+")
-            p.mb-0 #[b Revisión del #[em Sprint]:] reunión realizada al finalizar el #[em sprint] donde el equipo de desarrollo muestra los resultados. Para un #[em Sprint] de 4 semanas se usan reuniones de revisiones 4 horas.
+            p.mb-0 #[b Revisión del #[em Sprint]:] reunión realizada al finalizar el #[em Sprint] donde el equipo de desarrollo muestra los resultados. Para un #[em Sprint] de 4 semanas se usan reuniones de revisiones 4 horas.
           .tarjeta.bg-5.p-3(x="30.5%" y="52.5%" numero="+")
             p #[b Reunión de retrospectiva:] esta es la última, se realiza luego de la revisión del #[em Sprint] y tiene como objetivo la autoevaluación personal y del grupo sobre el desempeño del Sprint que acaba de finalizar. En esta se identifican y documentan los aprendizajes por medio de diferentes técnicas en las que generalmente se busca dar respuesta a las siguientes preguntas: 
             p.mb-0 ¿Qué funcionó bien y se debe seguir haciendo?

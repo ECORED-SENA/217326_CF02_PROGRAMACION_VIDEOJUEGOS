@@ -189,7 +189,7 @@
         .row.align-items-center.justify-content-center.my-4
           .col-md-5.mb-4.mb-md-0
             h3 Story Warriors: Fairy Tales (2015)
-            p Creado en el año 2015, por la empresa colombiana Below The Games (BTG), fundada por Carlos Rocha, trata de una aventura interactiva tipo puzzle, que narra interesantes cuentos de hadas, lo cual lo convierte en una atractiva forma de leer para los niños, ya que mezcla el entretenimiento con lo educativo.
+            p Creado en el año 2015, por la empresa colombiana Below The Games (BTG), fundada por Carlos Rocha, trata de una aventura interactiva tipo #[em puzzle], que narra interesantes cuentos de hadas, lo cual lo convierte en una atractiva forma de leer para los niños, ya que mezcla el entretenimiento con lo educativo.
           .col-md-6
             img(src='@/assets/curso/temas/t1/slider-img4.png', alt='')
         .row.align-items-center.justify-content-center.my-4
@@ -256,7 +256,7 @@
             .row.d-flex.align-items-center.text-white
               .col-auto 
                 img(src='@/assets/curso/temas/t3/ico-subt.svg', alt='')
-              .col-auto 
+              .col 
                 h3.mb-0 Tipos de juegos
           
           p.mb-4(data-aos="fade") Los videojuegos evolucionaron tomando nuevas mecánicas y características que los fueron transformando y a su vez desarrollando estilos diferenciados unos de otros, partiendo de la premisa de acción y recompensa. Debido a sus variaciones, los videojuegos se pueden clasificar en diferentes géneros y subgéneros, tomando en cuenta su tipo de jugabilidad, de los cuales podemos destacar los siguientes: 
@@ -321,9 +321,9 @@
 
           .fondo-subt.w-fit.pe-4.mb-4(data-aos="fade")
             .row.d-flex.align-items-center.text-white
-              .col-md-auto.col-4
+              .col-auto
                 img(src='@/assets/curso/temas/t3/ico-subt.svg', alt='', style="max-width: 100px;")
-              .col-md-auto.col-8
+              .col
                 h3.mb-0 Sistemas de clasificación en los videojuegos
           
           p.mb-4(data-aos="fade") Para el desarrollo de videojuegos existen sistemas de clasificación para poder ser vendidos o alquilados. Entre ellos, es posible destacar el sistema europeo y el americano.
@@ -352,7 +352,7 @@
       .row.d-flex.align-items-center.text-white
         .col-auto 
           img(src='@/assets/curso/temas/t3/ico-subt.svg', alt='')
-        .col-auto 
+        .col 
           h3.mb-0  Plataformas actuales de videojuegos
     
     p.mb-5(data-aos="fade") Son los sistemas base donde funcionan los juegos, en dichos dispositivos se emplean lenguajes de programación. 
