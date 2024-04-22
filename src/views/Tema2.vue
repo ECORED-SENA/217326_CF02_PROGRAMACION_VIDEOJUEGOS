@@ -147,7 +147,7 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-7.mb-4(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
-          p.mb-0 #[b Figura 4.] Burndown Chart
+          p.mb-0 #[b Figura 4.] #[em Burndown Chart]
         figure
           img(src='@/assets/curso/temas/t2/fig4.svg', alt='La figura muestra una Gráfica Sprint Burndown que representa el progreso de un proyecto a lo largo de 10 días.') 
           figcaption.mt-3 Nota. Tomada de intl-blog.imgix.net (2019). 
